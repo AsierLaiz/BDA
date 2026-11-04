@@ -1,0 +1,74 @@
+[
+ {
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "biztanleak": 345000,
+  "kostaldea": "Ez"
+ },
+ {
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "biztanleak": 77000,
+  "kostaldea": "Bai"
+ },
+ {
+  "udalerria": "Bermeo",
+  "probintzia": "Bizkaia",
+  "biztanleak": 17000,
+  "kostaldea": "Bai"
+ },
+ {
+  "udalerria": "Gernika",
+  "probintzia": "Bizkaia",
+  "biztanleak": 17000,
+  "kostaldea": "Ez"
+ },
+ {
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "biztanleak": 188000,
+  "kostaldea": "Bai"
+ },
+ {
+  "udalerria": "Zarautz",
+  "probintzia": "Gipuzkoa",
+  "biztanleak": 23000,
+  "kostaldea": "Bai"
+ },
+ {
+  "udalerria": "Hondarribia",
+  "probintzia": "Gipuzkoa",
+  "biztanleak": 17000,
+  "kostaldea": "Bai"
+ },
+ {
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "biztanleak": 11000,
+  "kostaldea": "Ez"
+ },
+ {
+  "udalerria": "Tolosa",
+  "probintzia": "Gipuzkoa",
+  "biztanleak": 19000,
+  "kostaldea": "Ez"
+ },
+ {
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "biztanleak": 255000,
+  "kostaldea": "Ez"
+ },
+ {
+  "udalerria": "Laguardia",
+  "probintzia": "Araba",
+  "biztanleak": 1500,
+  "kostaldea": "Ez"
+ },
+ {
+  "udalerria": "Amurrio",
+  "probintzia": "Araba",
+  "biztanleak": 10000,
+  "kostaldea": "Ez"
+ }
+]
