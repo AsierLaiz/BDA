@@ -1,0 +1,282 @@
+[
+ {
+  "izena": "Pensión Txori 1",
+  "udalerria": "Hondarribia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Pensión",
+  "plazak": 7
+ },
+ {
+  "izena": "Hotel Eguzki 2",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Hotel",
+  "plazak": 94
+ },
+ {
+  "izena": "Pensión Aitor 3",
+  "udalerria": "Bilbao",
+  "probintzia": "Bizkaia",
+  "mota": "Pensión",
+  "plazak": 8
+ },
+ {
+  "izena": "Etxea Mendi 4",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Casa rural",
+  "plazak": 7
+ },
+ {
+  "izena": "Etxea Aitor 5",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Casa rural",
+  "plazak": 13
+ },
+ {
+  "izena": "Pensión Zubi 6",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Pensión",
+  "plazak": 7
+ },
+ {
+  "izena": "Etxea Aitor 7",
+  "udalerria": "Valdegovía",
+  "probintzia": "Araba",
+  "mota": "Casa rural",
+  "plazak": 7
+ },
+ {
+  "izena": "Pensión Haizea 8",
+  "udalerria": "Bilbao",
+  "probintzia": "Bizkaia",
+  "mota": "Pensión",
+  "plazak": 19
+ },
+ {
+  "izena": "Hotel Zubi 9",
+  "udalerria": "Bermeo",
+  "probintzia": "Bizkaia",
+  "mota": "Hotel",
+  "plazak": 59
+ },
+ {
+  "izena": "Pensión Mendi 10",
+  "udalerria": "Laguardia",
+  "probintzia": "Araba",
+  "mota": "Pensión",
+  "plazak": 24
+ },
+ {
+  "izena": "Pensión Eguzki 11",
+  "udalerria": "Valdegovía",
+  "probintzia": "Araba",
+  "mota": "Pensión",
+  "plazak": 9
+ },
+ {
+  "izena": "Hotel Zubi 12",
+  "udalerria": "Laguardia",
+  "probintzia": "Araba",
+  "mota": "Hotel",
+  "plazak": 27
+ },
+ {
+  "izena": "Pensión Sagar 13",
+  "udalerria": "Valdegovía",
+  "probintzia": "Araba",
+  "mota": "Pensión",
+  "plazak": 23
+ },
+ {
+  "izena": "Camping Sagar 14",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Camping",
+  "plazak": 229
+ },
+ {
+  "izena": "Camping Haizea 15",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "Camping",
+  "plazak": 143
+ },
+ {
+  "izena": "Pensión Mendi 16",
+  "udalerria": "Bermeo",
+  "probintzia": "Bizkaia",
+  "mota": "Pensión",
+  "plazak": 24
+ },
+ {
+  "izena": "Etxea Eguzki 17",
+  "udalerria": "Zarautz",
+  "probintzia": "Gipuzkoa",
+  "mota": "Casa rural",
+  "plazak": 11
+ },
+ {
+  "izena": "Hotel Mendi 18",
+  "udalerria": "Zarautz",
+  "probintzia": "Gipuzkoa",
+  "mota": "Hotel",
+  "plazak": 85
+ },
+ {
+  "izena": "Pensión Eguzki 19",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Pensión",
+  "plazak": 10
+ },
+ {
+  "izena": "Etxea Aitor 20",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "Casa rural",
+  "plazak": 14
+ },
+ {
+  "izena": "Camping Eguzki 21",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Camping",
+  "plazak": 257
+ },
+ {
+  "izena": "Etxea Zubi 22",
+  "udalerria": "Hondarribia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Casa rural",
+  "plazak": 11
+ },
+ {
+  "izena": "Hotel Haizea 23",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Hotel",
+  "plazak": 80
+ },
+ {
+  "izena": "Hotel Haizea 24",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Hotel",
+  "plazak": 102
+ },
+ {
+  "izena": "Etxea Haizea 25",
+  "udalerria": "Valdegovía",
+  "probintzia": "Araba",
+  "mota": "Casa rural",
+  "plazak": 10
+ },
+ {
+  "izena": "Hotel Sagar 26",
+  "udalerria": "Hondarribia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Hotel",
+  "plazak": 65
+ },
+ {
+  "izena": "Hotel Sagar 27",
+  "udalerria": "Bermeo",
+  "probintzia": "Bizkaia",
+  "mota": "Hotel",
+  "plazak": 27
+ },
+ {
+  "izena": "Camping Itsaso 28",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Camping",
+  "plazak": 269
+ },
+ {
+  "izena": "Etxea Txori 29",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Casa rural",
+  "plazak": 11
+ },
+ {
+  "izena": "Pensión Sagar 30",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Pensión",
+  "plazak": 18
+ },
+ {
+  "izena": "Camping Itsaso 31",
+  "udalerria": "Laguardia",
+  "probintzia": "Araba",
+  "mota": "Camping",
+  "plazak": 289
+ },
+ {
+  "izena": "Camping Txori 32",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Camping",
+  "plazak": 171
+ },
+ {
+  "izena": "Pensión Itsaso 33",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Pensión",
+  "plazak": 8
+ },
+ {
+  "izena": "Pensión Olatu 34",
+  "udalerria": "Bermeo",
+  "probintzia": "Bizkaia",
+  "mota": "Pensión",
+  "plazak": 13
+ },
+ {
+  "izena": "Etxea Zubi 35",
+  "udalerria": "Bilbao",
+  "probintzia": "Bizkaia",
+  "mota": "Casa rural",
+  "plazak": 6
+ },
+ {
+  "izena": "Camping Aitor 36",
+  "udalerria": "Zarautz",
+  "probintzia": "Gipuzkoa",
+  "mota": "Camping",
+  "plazak": 117
+ },
+ {
+  "izena": "Camping Zubi 37",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Camping",
+  "plazak": 224
+ },
+ {
+  "izena": "Pensión Lau 38",
+  "udalerria": "Hondarribia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Pensión",
+  "plazak": 25
+ },
+ {
+  "izena": "Etxea Lau 39",
+  "udalerria": "Bilbao",
+  "probintzia": "Bizkaia",
+  "mota": "Casa rural",
+  "plazak": 10
+ },
+ {
+  "izena": "Etxea Txori 40",
+  "udalerria": "Oñati",
+  "probintzia": "Gipuzkoa",
+  "mota": "Casa rural",
+  "plazak": 5
+ }
+]

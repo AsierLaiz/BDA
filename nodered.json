@@ -1,0 +1,310 @@
+[
+    {
+        "id": "tab_votacion",
+        "type": "tab",
+        "label": "Bozketa App",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "dash_tab_bozkatu",
+        "type": "ui_tab",
+        "name": "Bozkatu",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "dash_tab_emaitzak",
+        "type": "ui_tab",
+        "name": "Emaitzak",
+        "icon": "bar_chart",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "group_bozkatu",
+        "type": "ui_group",
+        "name": "Zein da pintxorik onena?",
+        "tab": "dash_tab_bozkatu",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "group_emaitzak",
+        "type": "ui_group",
+        "name": "Emaitzak Zuzenean",
+        "tab": "dash_tab_emaitzak",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "inject_init",
+        "type": "inject",
+        "z": "tab_votacion",
+        "name": "Hasieratu / Inicializar",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 80,
+        "wires": [
+            [
+                "change_reset"
+            ]
+        ]
+    },
+    {
+        "id": "change_reset",
+        "type": "change",
+        "z": "tab_votacion",
+        "name": "Reset Botoak",
+        "rules": [
+            {
+                "t": "set",
+                "p": "votos",
+                "pt": "flow",
+                "to": "{\"Gilda\":0,\"Tortilla\":0,\"Txangurro\":0,\"Kroketak\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "btn_gilda",
+        "type": "ui_button",
+        "z": "tab_votacion",
+        "name": "",
+        "group": "group_bozkatu",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Gilda",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "Gilda",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 180,
+        "wires": [
+            [
+                "fn_procesar_voto"
+            ]
+        ]
+    },
+    {
+        "id": "btn_tortilla",
+        "type": "ui_button",
+        "z": "tab_votacion",
+        "name": "",
+        "group": "group_bozkatu",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Tortilla",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "Tortilla",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 230,
+        "wires": [
+            [
+                "fn_procesar_voto"
+            ]
+        ]
+    },
+    {
+        "id": "btn_txangurro",
+        "type": "ui_button",
+        "z": "tab_votacion",
+        "name": "",
+        "group": "group_bozkatu",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Txangurro",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "Txangurro",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 280,
+        "wires": [
+            [
+                "fn_procesar_voto"
+            ]
+        ]
+    },
+    {
+        "id": "btn_kroketak",
+        "type": "ui_button",
+        "z": "tab_votacion",
+        "name": "",
+        "group": "group_bozkatu",
+        "order": 4,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Kroketak",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "Kroketak",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 330,
+        "wires": [
+            [
+                "fn_procesar_voto"
+            ]
+        ]
+    },
+    {
+        "id": "fn_procesar_voto",
+        "type": "function",
+        "z": "tab_votacion",
+        "name": "Sumar Voto",
+        "func": "let votos = flow.get('votos') || { \"Gilda\": 0, \"Tortilla\": 0, \"Txangurro\": 0, \"Kroketak\": 0 };\nlet opcion = msg.payload;\n\nif (votos.hasOwnProperty(opcion)) {\n    votos[opcion] += 1;\n}\n\nflow.set('votos', votos);\n\n// 1. Notificación para el usuario\nlet msgNotif = {\n    payload: \"Eskerrik asko! Zure botoa: \" + opcion\n};\n\n// 2. Formato de datos para el nodo UI Chart\nlet msgChart = {\n    topic: opcion,\n    payload: votos[opcion]\n};\n\n// 3. Resumen en texto con el desglose total\nlet resumen = `Gilda: ${votos.Gilda} | Tortilla: ${votos.Tortilla} | Txangurro: ${votos.Txangurro} | Kroketak: ${votos.Kroketak}`;\nlet msgTexto = {\n    payload: resumen\n};\n\nreturn [msgNotif, msgChart, msgTexto];",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 250,
+        "wires": [
+            [
+                "ui_notif"
+            ],
+            [
+                "ui_grafico"
+            ],
+            [
+                "ui_resumen_texto"
+            ]
+        ]
+    },
+    {
+        "id": "ui_notif",
+        "type": "ui_toast",
+        "z": "tab_votacion",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendDismiss": false,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Notificación",
+        "x": 650,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "ui_grafico",
+        "type": "ui_chart",
+        "z": "tab_votacion",
+        "name": "Gráfico Votos",
+        "group": "group_emaitzak",
+        "order": 1,
+        "width": 8,
+        "height": 5,
+        "label": "Botoen Grafikoa",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Faltan votos...",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 650,
+        "y": 250,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ui_resumen_texto",
+        "type": "ui_text",
+        "z": "tab_votacion",
+        "group": "group_emaitzak",
+        "order": 2,
+        "width": 8,
+        "height": 2,
+        "name": "Texto Votos",
+        "label": "Boto guztiak:",
+        "format": "{{msg.payload}}",
+        "layout": "col-2x",
+        "className": "",
+        "x": 650,
+        "y": 320,
+        "wires": []
+    }
+]
