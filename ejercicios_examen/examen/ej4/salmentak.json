@@ -1,0 +1,812 @@
+[
+ {
+  "data": "01/04/2024",
+  "produktua": "Sagardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "1",
+  "prezioa": "6,50 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "13/07/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "2",
+  "prezioa": "60,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "14/09/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "2",
+  "prezioa": "35,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "28/07/2024",
+  "produktua": "Sagardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "3",
+  "prezioa": "6,50 €",
+  "herria": "Donostia",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "23/09/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "2",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "25/03/2024",
+  "produktua": "Tableta",
+  "kategoria": "TEKNOLOGIA",
+  "kopurua": "6",
+  "prezioa": "1.250,50 €",
+  "herria": "Bilbo",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "21/07/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "teknologia",
+  "kopurua": "3",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "06/07/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "3",
+  "prezioa": "35,00 €",
+  "herria": "Irun",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "27/05/2024",
+  "produktua": "Alkandora",
+  "kategoria": "ARROPA",
+  "kopurua": "1",
+  "prezioa": "35,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "21/02/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "6",
+  "prezioa": "60,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "24/02/2024",
+  "produktua": "Ardoa",
+  "kategoria": "elikagaiak",
+  "kopurua": "4",
+  "prezioa": "9,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "25/12/2024",
+  "produktua": "Praka",
+  "kategoria": "ARROPA",
+  "kopurua": "2",
+  "prezioa": "60,00 €",
+  "herria": "Donostia",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "",
+  "produktua": "Ardoa",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "3",
+  "prezioa": "9,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "20/10/2024",
+  "produktua": "Praka",
+  "kategoria": "arropa",
+  "kopurua": "4",
+  "prezioa": "60,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "08/04/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "4",
+  "prezioa": "35,00 €",
+  "herria": "Donostia",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "20/01/2024",
+  "produktua": "Ardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "5",
+  "prezioa": "9,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "19/11/2024",
+  "produktua": "Tableta",
+  "kategoria": "TEKNOLOGIA",
+  "kopurua": "4",
+  "prezioa": "1.250,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "28/07/2024",
+  "produktua": "Alkandora",
+  "kategoria": "ARROPA",
+  "kopurua": "3",
+  "prezioa": "35,00 €",
+  "herria": "Donostia",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "22/03/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "3",
+  "prezioa": "35,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "26/08/2024",
+  "produktua": "Tableta",
+  "kategoria": "TEKNOLOGIA",
+  "kopurua": "4",
+  "prezioa": "1.250,50 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "18/07/2024",
+  "produktua": "Gazta",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "1",
+  "prezioa": "12,50 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "13/05/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "4",
+  "prezioa": "899,90 €",
+  "herria": "Irun",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "03/08/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "TEKNOLOGIA",
+  "kopurua": "6",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "06/11/2024",
+  "produktua": "Ardoa",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "6",
+  "prezioa": "9,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "10/06/2024",
+  "produktua": "Tableta",
+  "kategoria": "teknologia",
+  "kopurua": "5",
+  "prezioa": "1.250,50 €",
+  "herria": "Bilbo",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "19/07/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "3",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "28/06/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "5",
+  "prezioa": "60,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "06/04/2024",
+  "produktua": "Tableta",
+  "kategoria": "Teknologia",
+  "kopurua": "2",
+  "prezioa": "1.250,50 €",
+  "herria": "Bilbo",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "14/08/2024",
+  "produktua": "Gazta",
+  "kategoria": "elikagaiak",
+  "kopurua": "1",
+  "prezioa": "12,50 €",
+  "herria": "Donostia",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "22/02/2024",
+  "produktua": "Ardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "5",
+  "prezioa": "9,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "20/01/2024",
+  "produktua": "Gazta",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "1",
+  "prezioa": "12,50 €",
+  "herria": "Irun",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "08/03/2024",
+  "produktua": "Alkandora",
+  "kategoria": "arropa",
+  "kopurua": "3",
+  "prezioa": "35,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "06/06/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "1",
+  "prezioa": "60,00 €",
+  "herria": "Irun",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "19/10/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "6",
+  "prezioa": "59,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "25/10/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "1",
+  "prezioa": "60,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "11/11/2023",
+  "produktua": "Tableta",
+  "kategoria": "Teknologia",
+  "kopurua": "3",
+  "prezioa": "1.250,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "26/10/2024",
+  "produktua": "Praka",
+  "kategoria": "ARROPA",
+  "kopurua": "1",
+  "prezioa": "60,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "06/05/2024",
+  "produktua": "Praka",
+  "kategoria": "ARROPA",
+  "kopurua": "4",
+  "prezioa": "60,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "08/05/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "TEKNOLOGIA",
+  "kopurua": "5",
+  "prezioa": "899,90 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "11/02/2024",
+  "produktua": "Sagardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "6",
+  "prezioa": "6,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "02/05/2024",
+  "produktua": "Gazta",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "5",
+  "prezioa": "12,50 €",
+  "herria": "Donostia",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "08/05/2024",
+  "produktua": "Ardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "2",
+  "prezioa": "9,00 €",
+  "herria": "Irun",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "13/03/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "4",
+  "prezioa": "59,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "04/04/2024",
+  "produktua": "Ardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "1",
+  "prezioa": "9,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "21/09/2024",
+  "produktua": "Praka",
+  "kategoria": "arropa",
+  "kopurua": "4",
+  "prezioa": "60,00 €",
+  "herria": "Irun",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "06/09/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "TEKNOLOGIA",
+  "kopurua": "2",
+  "prezioa": "899,90 €",
+  "herria": "Donostia",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "16/01/2023",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "2",
+  "prezioa": "35,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "06/01/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "teknologia",
+  "kopurua": "5",
+  "prezioa": "899,90 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "12/05/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "5",
+  "prezioa": "35,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "11/01/2024",
+  "produktua": "Ardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "0",
+  "prezioa": "9,00 €",
+  "herria": "Irun",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "19/03/2024",
+  "produktua": "Gazta",
+  "kategoria": "elikagaiak",
+  "kopurua": "6",
+  "prezioa": "12,50 €",
+  "herria": "Bilbo",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "21/04/2024",
+  "produktua": "Tableta",
+  "kategoria": "teknologia",
+  "kopurua": "1",
+  "prezioa": "1.250,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "03/08/2024",
+  "produktua": "Ardoa",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "5",
+  "prezioa": "9,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "02/11/2024",
+  "produktua": "Alkandora",
+  "kategoria": "ARROPA",
+  "kopurua": "0",
+  "prezioa": "35,00 €",
+  "herria": "Irun",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "26/10/2024",
+  "produktua": "Gazta",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "5",
+  "prezioa": "12,50 €",
+  "herria": "Irun",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "01/02/2024",
+  "produktua": "Tableta",
+  "kategoria": "teknologia",
+  "kopurua": "3",
+  "prezioa": "1.250,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "22/08/2024",
+  "produktua": "Sagardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "5",
+  "prezioa": "6,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "13/12/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "1",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "13/03/2024",
+  "produktua": "Gazta",
+  "kategoria": "elikagaiak",
+  "kopurua": "5",
+  "prezioa": "12,50 €",
+  "herria": "Irun",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "10/09/2024",
+  "produktua": "Gazta",
+  "kategoria": "elikagaiak",
+  "kopurua": "6",
+  "prezioa": "12,50 €",
+  "herria": "Donostia",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "18/02/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "4",
+  "prezioa": "60,00 €",
+  "herria": "Irun",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "15/05/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "1",
+  "prezioa": "899,90 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "22/03/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "-1",
+  "prezioa": "60,00 €",
+  "herria": "Irun",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "23/10/2024",
+  "produktua": "Ardoa",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "5",
+  "prezioa": "9,00 €",
+  "herria": "Donostia",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "16/09/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "3",
+  "prezioa": "60,00 €",
+  "herria": "Irun",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "07/01/2024",
+  "produktua": "Sagardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "6",
+  "prezioa": "6,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "25/03/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "2",
+  "prezioa": "35,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "23/08/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "3",
+  "prezioa": "35,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "28/02/2024",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "5",
+  "prezioa": "35,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "09/02/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "1",
+  "prezioa": "899,90 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "22/03/2024",
+  "produktua": "Gazta",
+  "kategoria": "Elikagaiak",
+  "kopurua": "6",
+  "prezioa": "12,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "03/01/2023",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "6",
+  "prezioa": "60,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "14/02/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "5",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "02/02/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "teknologia",
+  "kopurua": "6",
+  "prezioa": "899,90 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "23/03/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "4",
+  "prezioa": "899,90 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "14/11/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "4",
+  "prezioa": "899,90 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "26/05/2023",
+  "produktua": "Alkandora",
+  "kategoria": "Arropa",
+  "kopurua": "1",
+  "prezioa": "35,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "23/01/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "3",
+  "prezioa": "899,90 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "14/05/2024",
+  "produktua": "Tableta",
+  "kategoria": "teknologia",
+  "kopurua": "2",
+  "prezioa": "1.250,50 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "28/05/2024",
+  "produktua": "Praka",
+  "kategoria": "arropa",
+  "kopurua": "6",
+  "prezioa": "60,00 €",
+  "herria": "Irun",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "26/02/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "5",
+  "prezioa": "60,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "09/06/2024",
+  "produktua": "Aurikularrak",
+  "kategoria": "Teknologia",
+  "kopurua": "6",
+  "prezioa": "59,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "11/11/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "4",
+  "prezioa": "60,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "TXARTELA"
+ },
+ {
+  "data": "13/05/2024",
+  "produktua": "Telefonoa",
+  "kategoria": "Teknologia",
+  "kopurua": "3",
+  "prezioa": "899,90 €",
+  "herria": "Bilbo",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "16/10/2024",
+  "produktua": "Praka",
+  "kategoria": "arropa",
+  "kopurua": "4",
+  "prezioa": "60,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "20/08/2024",
+  "produktua": "Sagardoa",
+  "kategoria": "Elikagaiak",
+  "kopurua": "2",
+  "prezioa": "6,50 €",
+  "herria": "Donostia",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "10/05/2024",
+  "produktua": "Gazta",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "0",
+  "prezioa": "12,50 €",
+  "herria": "Gasteiz",
+  "ordainketa": "eskudirua"
+ },
+ {
+  "data": "23/03/2024",
+  "produktua": "Praka",
+  "kategoria": "Arropa",
+  "kopurua": "5",
+  "prezioa": "60,00 €",
+  "herria": "Gasteiz",
+  "ordainketa": "Txartela"
+ },
+ {
+  "data": "02/10/2024",
+  "produktua": "Alkandora",
+  "kategoria": "arropa",
+  "kopurua": "5",
+  "prezioa": "35,00 €",
+  "herria": "Donostia",
+  "ordainketa": "Bizum"
+ },
+ {
+  "data": "15/10/2024",
+  "produktua": "Ardoa",
+  "kategoria": "ELIKAGAIAK",
+  "kopurua": "3",
+  "prezioa": "9,00 €",
+  "herria": "Bilbo",
+  "ordainketa": "eskudirua"
+ }
+]

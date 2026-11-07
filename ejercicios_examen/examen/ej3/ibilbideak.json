@@ -1,0 +1,658 @@
+[
+ {
+  "izena": "Aizkorri bira 22",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "20,3 km",
+  "iraupena": "6h12min",
+  "desnibela": "95 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "udazkena",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Anboto bira 41",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "distantzia": "13,1 km",
+  "iraupena": "5h 2min",
+  "desnibela": "441 m",
+  "zailtasuna": "erraza ",
+  "urtaroak": [
+   "udazkena",
+   "UDABERRIA",
+   "uda",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Gorbea bira 32",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "23,3 km",
+  "iraupena": "9h8min",
+  "desnibela": "930 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "UDA",
+   "UDABERRIA",
+   "udazkena",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 2",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "14,6 km",
+  "iraupena": "6h7min",
+  "desnibela": "472 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "negua",
+   "UDAZKENA",
+   "udaberria",
+   "UDA"
+  ]
+ },
+ {
+  "izena": "Anboto bira 9",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "distantzia": "23,4 km",
+  "iraupena": "8h 29min",
+  "desnibela": "677 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "UDAZKENA",
+   "uda",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 11",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "10,1 km",
+  "iraupena": "5h14min",
+  "desnibela": "930 m",
+  "zailtasuna": "ERTAINA",
+  "urtaroak": [
+   "udaberria",
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 21",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "20,0 km",
+  "iraupena": "5h 57min",
+  "desnibela": "205 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "uda"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 16",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "9,6 km",
+  "iraupena": "4h34min",
+  "desnibela": "1257 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Jaizkibel bira 35",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "21,0 km",
+  "iraupena": "8h 35min",
+  "desnibela": "899 m",
+  "zailtasuna": "erraza ",
+  "urtaroak": [
+   "UDABERRIA",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 38",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "11,2 km",
+  "iraupena": "5h4min",
+  "desnibela": "1194 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "udaberria",
+   "UDA",
+   "udazkena",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 47",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "21,7 km",
+  "iraupena": "7h 1min",
+  "desnibela": "357 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 23",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "19,3 km",
+  "iraupena": "6h 50min",
+  "desnibela": "83 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 50",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "6,4 km",
+  "iraupena": "3h 43min",
+  "desnibela": "1098 m",
+  "zailtasuna": "ERTAINA",
+  "urtaroak": [
+   "negua",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Jaizkibel bira 46",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "16,3 km",
+  "iraupena": "5h 58min",
+  "desnibela": "300 m",
+  "zailtasuna": "erraza ",
+  "urtaroak": [
+   "UDA",
+   "UDABERRIA",
+   "UDAZKENA",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 8",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "21,5 km",
+  "iraupena": "7h 33min",
+  "desnibela": "651 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 20",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "9,3 km",
+  "iraupena": "3h1min",
+  "desnibela": "120 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": []
+ },
+ {
+  "izena": "Ernio bira 4",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "3,8 km",
+  "iraupena": "2h48min",
+  "desnibela": "1093 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "negua",
+   "udazkena",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Anboto bira 5",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "distantzia": "17,3 km",
+  "iraupena": "6h 14min",
+  "desnibela": "138 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "uda"
+  ]
+ },
+ {
+  "izena": "Ernio bira 25",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "5,6 km",
+  "iraupena": "3h20min",
+  "desnibela": "1217 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udaberria",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Gorbea bira 33",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "5,9 km",
+  "iraupena": "2h17min",
+  "desnibela": "487 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "NEGUA",
+   "udazkena",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Gorbea bira 40",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "9,2 km",
+  "iraupena": "5h 6min",
+  "desnibela": "1239 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "udaberria",
+   "negua",
+   "udazkena",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 13",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "15,4 km",
+  "iraupena": "5h 11min",
+  "desnibela": "735 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "UDAZKENA",
+   "uda",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 19",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "distantzia": "3,7 km",
+  "iraupena": "3h12min",
+  "desnibela": "1129 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "NEGUA"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 27",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "11,9 km",
+  "iraupena": "4h30min",
+  "desnibela": "137 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "negua"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 36",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "distantzia": "5,9 km",
+  "iraupena": "4h 10min",
+  "desnibela": "1353 m",
+  "zailtasuna": "erraza ",
+  "urtaroak": [
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Jaizkibel bira 31",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "20,4 km",
+  "iraupena": "8h 25min",
+  "desnibela": "575 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "udazkena",
+   "UDA",
+   "negua",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 6",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "9,0 km",
+  "iraupena": "3h1min",
+  "desnibela": "209 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "NEGUA"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 7",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "distantzia": "12,0 km",
+  "iraupena": "5h 44min",
+  "desnibela": "930 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": []
+ },
+ {
+  "izena": "Ernio bira 18",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "23,0 km",
+  "iraupena": "6h20min",
+  "desnibela": "534 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "UDAZKENA",
+   "UDABERRIA",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 37",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "19,8 km",
+  "iraupena": "5h23min",
+  "desnibela": "321 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "udazkena",
+   "udaberria",
+   "negua",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Anboto bira 28",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "distantzia": "20,8 km",
+  "iraupena": "9h",
+  "desnibela": "1165 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udaberria",
+   "udazkena",
+   "negua"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 10",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "16,5 km",
+  "iraupena": "7h 31min",
+  "desnibela": "1299 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "NEGUA",
+   "udazkena",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Anboto bira 39",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "16,9 km",
+  "iraupena": "5h13min",
+  "desnibela": "623 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "negua"
+  ]
+ },
+ {
+  "izena": "Ernio bira 44",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "15,4 km",
+  "iraupena": "6h",
+  "desnibela": "379 m",
+  "zailtasuna": "erraza ",
+  "urtaroak": [
+   "UDA",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Gorbea bira 14",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "9,5 km",
+  "iraupena": "3h56min",
+  "desnibela": "535 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "negua",
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Anboto bira 1",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "14,4 km",
+  "iraupena": "6h31min",
+  "desnibela": "837 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "UDABERRIA"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 15",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "17,2 km",
+  "iraupena": "5h 54min",
+  "desnibela": "539 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "negua",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Jaizkibel bira 49",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "distantzia": "21,1 km",
+  "iraupena": "8h 30min",
+  "desnibela": "975 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Jaizkibel bira 42",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "19,1 km",
+  "iraupena": "8h2min",
+  "desnibela": "805 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Ernio bira 34",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "6,6 km",
+  "iraupena": "3h7min",
+  "desnibela": "818 m",
+  "zailtasuna": "erraza ",
+  "urtaroak": []
+ },
+ {
+  "izena": "Urkiola bira 48",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "13,5 km",
+  "iraupena": "5h",
+  "desnibela": "118 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "UDA",
+   "UDABERRIA",
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Gorbea bira 43",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "distantzia": "8,7 km",
+  "iraupena": "3h 17min",
+  "desnibela": "284 m",
+  "zailtasuna": "zaila",
+  "urtaroak": [
+   "NEGUA",
+   "UDAZKENA"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 24",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "distantzia": "4,8 km",
+  "iraupena": "3h 16min",
+  "desnibela": "1108 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "negua",
+   "udazkena",
+   "uda"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 17",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "13,9 km",
+  "iraupena": "5h9min",
+  "desnibela": "635 m",
+  "zailtasuna": "ERTAINA",
+  "urtaroak": [
+   "udaberria",
+   "UDA",
+   "NEGUA",
+   "UDAZKENA"
+  ]
+ },
+ {
+  "izena": "Ernio bira 3",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "6,3 km",
+  "iraupena": "3h 40min",
+  "desnibela": "1290 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "NEGUA",
+   "udazkena",
+   "UDA",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 30",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "15,2 km",
+  "iraupena": "4h 2min",
+  "desnibela": "261 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Izarraitz bira 12",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "15,8 km",
+  "iraupena": "6h 19min",
+  "desnibela": "651 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udazkena"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 29",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "distantzia": "14,9 km",
+  "iraupena": "5h 14min",
+  "desnibela": "849 m",
+  "zailtasuna": "Erraza",
+  "urtaroak": [
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Aizkorri bira 26",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "distantzia": "16,4 km",
+  "iraupena": "5h27min",
+  "desnibela": "168 m",
+  "zailtasuna": "Ertaina",
+  "urtaroak": [
+   "udazkena",
+   "uda",
+   "negua",
+   "udaberria"
+  ]
+ },
+ {
+  "izena": "Urkiola bira 45",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "distantzia": "20,7 km",
+  "iraupena": "8h56min",
+  "desnibela": "991 m",
+  "zailtasuna": "Zaila",
+  "urtaroak": [
+   "NEGUA",
+   "udazkena",
+   "uda"
+  ]
+ }
+]

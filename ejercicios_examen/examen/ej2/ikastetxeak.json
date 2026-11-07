@@ -1,0 +1,602 @@
+[
+ {
+  "izena": "Mendi 37",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": 108,
+  "irakasleak": "6",
+  "eredua": "D",
+  "urtea": "1967"
+ },
+ {
+  "izena": "Arrano 16",
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "mota": "publikoa",
+  "ikasleak": "n/a",
+  "irakasleak": 26,
+  "eredua": "D",
+  "urtea": "1979"
+ },
+ {
+  "izena": "Aldapa 28",
+  "udalerria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "mota": "Publikoa",
+  "ikasleak": "n/a",
+  "irakasleak": 15,
+  "eredua": "D",
+  "urtea": "1987"
+ },
+ {
+  "izena": "Zubieta 24",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": 481,
+  "irakasleak": 34,
+  "eredua": "D",
+  "urtea": "1965"
+ },
+ {
+  "izena": "Mendi 34",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Itunpekoa",
+  "ikasleak": 301,
+  "irakasleak": 21,
+  "eredua": "B",
+  "urtea": "1975"
+ },
+ {
+  "izena": "San Martin 8",
+  "udalerria": "Agurain",
+  "probintzia": "Araba",
+  "mota": "Publikoa",
+  "ikasleak": 157,
+  "irakasleak": 10,
+  "eredua": "D",
+  "urtea": "1956"
+ },
+ {
+  "izena": "San Martin 46",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "PUBLIKOA",
+  "ikasleak": 484,
+  "irakasleak": "39",
+  "eredua": "D",
+  "urtea": 1990
+ },
+ {
+  "izena": "Zubieta 29",
+  "udalerria": "Agurain",
+  "probintzia": "Araba",
+  "mota": "itunpekoa ",
+  "ikasleak": 777,
+  "irakasleak": 68,
+  "eredua": "D",
+  "urtea": 1962
+ },
+ {
+  "izena": "Zubieta 43",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": 422,
+  "irakasleak": "34",
+  "eredua": "B",
+  "urtea": "1967"
+ },
+ {
+  "izena": "Zubieta 1",
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "mota": "PUBLIKOA",
+  "ikasleak": 166,
+  "irakasleak": 14,
+  "eredua": "b",
+  "urtea": 1970
+ },
+ {
+  "izena": "Ikasbide 5",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": "245",
+  "irakasleak": 15,
+  "eredua": "B",
+  "urtea": 2013
+ },
+ {
+  "izena": "Zubieta 25",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "Publikoa",
+  "ikasleak": 736,
+  "irakasleak": "62",
+  "eredua": "a",
+  "urtea": 2013
+ },
+ {
+  "izena": "Aldapa 18",
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "mota": "itunpekoa ",
+  "ikasleak": "473",
+  "irakasleak": 39,
+  "eredua": "D",
+  "urtea": "1963"
+ },
+ {
+  "izena": "Zubieta 22",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "Publikoa",
+  "ikasleak": 183,
+  "irakasleak": 18,
+  "eredua": "B",
+  "urtea": ""
+ },
+ {
+  "izena": "Aldapa 54",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "PUBLIKOA",
+  "ikasleak": 548,
+  "irakasleak": "37",
+  "eredua": "D",
+  "urtea": "1972"
+ },
+ {
+  "izena": "Ikasbide 32",
+  "udalerria": "Agurain",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": "502",
+  "irakasleak": "36",
+  "eredua": "A",
+  "urtea": "1960"
+ },
+ {
+  "izena": "San Martin 51",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": 670,
+  "irakasleak": 44,
+  "eredua": "D",
+  "urtea": 2010
+ },
+ {
+  "izena": "Zubieta 48",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": 560,
+  "irakasleak": 41,
+  "eredua": "B",
+  "urtea": "1962"
+ },
+ {
+  "izena": "Mendi 20",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "itunpekoa ",
+  "ikasleak": 515,
+  "irakasleak": "40",
+  "eredua": "b",
+  "urtea": 1962
+ },
+ {
+  "izena": "Mendi 56",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "Publikoa",
+  "ikasleak": 221,
+  "irakasleak": 15,
+  "eredua": "b",
+  "urtea": "1950"
+ },
+ {
+  "izena": "Aldapa 53",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": "543",
+  "irakasleak": 58,
+  "eredua": "D",
+  "urtea": ""
+ },
+ {
+  "izena": "Mendi 19",
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "mota": "Itunpekoa",
+  "ikasleak": 187,
+  "irakasleak": "17",
+  "eredua": "b",
+  "urtea": "1998"
+ },
+ {
+  "izena": "San Martin 47",
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "mota": "Publikoa",
+  "ikasleak": "186",
+  "irakasleak": "16",
+  "eredua": "D",
+  "urtea": 1980
+ },
+ {
+  "izena": "Zubieta 44",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": 242,
+  "irakasleak": "24",
+  "eredua": "D",
+  "urtea": "1995"
+ },
+ {
+  "izena": "Aldapa 23",
+  "udalerria": "Agurain",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": 155,
+  "irakasleak": 17,
+  "eredua": "D",
+  "urtea": "2012"
+ },
+ {
+  "izena": "Mendi 11",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "Publikoa",
+  "ikasleak": 240,
+  "irakasleak": 16,
+  "eredua": "a",
+  "urtea": "1981"
+ },
+ {
+  "izena": "San Martin 27",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": 240,
+  "irakasleak": 19,
+  "eredua": "b",
+  "urtea": 1959
+ },
+ {
+  "izena": "Arrano 33",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "Publikoa",
+  "ikasleak": 471,
+  "irakasleak": "29",
+  "eredua": "b",
+  "urtea": "2009"
+ },
+ {
+  "izena": "Ikasbide 59",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "publikoa",
+  "ikasleak": 286,
+  "irakasleak": 25,
+  "eredua": "B",
+  "urtea": "1990"
+ },
+ {
+  "izena": "Haranburu 58",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "Itunpekoa",
+  "ikasleak": "424",
+  "irakasleak": 31,
+  "eredua": "b",
+  "urtea": "1963"
+ },
+ {
+  "izena": "Haranburu 40",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "PUBLIKOA",
+  "ikasleak": "421",
+  "irakasleak": "31",
+  "eredua": "b",
+  "urtea": "1961"
+ },
+ {
+  "izena": "Zubieta 30",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "publikoa",
+  "ikasleak": 812,
+  "irakasleak": 64,
+  "eredua": "B",
+  "urtea": 1968
+ },
+ {
+  "izena": "Arrano 6",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "itunpekoa ",
+  "ikasleak": "552",
+  "irakasleak": "48",
+  "eredua": "B",
+  "urtea": ""
+ },
+ {
+  "izena": "Arrano 12",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Publikoa",
+  "ikasleak": 710,
+  "irakasleak": "",
+  "eredua": "B",
+  "urtea": 1989
+ },
+ {
+  "izena": "Haranburu 50",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "publikoa",
+  "ikasleak": 866,
+  "irakasleak": 65,
+  "eredua": "B",
+  "urtea": "2006"
+ },
+ {
+  "izena": "San Martin 7",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": "871",
+  "irakasleak": "56",
+  "eredua": "D",
+  "urtea": 2012
+ },
+ {
+  "izena": "Haranburu 55",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": 174,
+  "irakasleak": "15",
+  "eredua": "D",
+  "urtea": "1958"
+ },
+ {
+  "izena": "Mendi 52",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "Publikoa",
+  "ikasleak": "637",
+  "irakasleak": "42",
+  "eredua": "B",
+  "urtea": 1971
+ },
+ {
+  "izena": "Aldapa 21",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": 611,
+  "irakasleak": "38",
+  "eredua": "A",
+  "urtea": "1997"
+ },
+ {
+  "izena": "Mendi 60",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "Itunpekoa",
+  "ikasleak": 564,
+  "irakasleak": 51,
+  "eredua": "B",
+  "urtea": "1967"
+ },
+ {
+  "izena": "Aldapa 10",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Publikoa",
+  "ikasleak": 256,
+  "irakasleak": 23,
+  "eredua": "D",
+  "urtea": 1952
+ },
+ {
+  "izena": "Ikasbide 15",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Publikoa",
+  "ikasleak": "348",
+  "irakasleak": 26,
+  "eredua": "A",
+  "urtea": "1957"
+ },
+ {
+  "izena": "San Martin 4",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": "n/a",
+  "irakasleak": 17,
+  "eredua": "B",
+  "urtea": 1996
+ },
+ {
+  "izena": "Arrano 35",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": 221,
+  "irakasleak": "24",
+  "eredua": "b",
+  "urtea": "1972"
+ },
+ {
+  "izena": "Ikasbide 31",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "publikoa",
+  "ikasleak": 110,
+  "irakasleak": 7,
+  "eredua": "B",
+  "urtea": 2001
+ },
+ {
+  "izena": "Ikasbide 45",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "PUBLIKOA",
+  "ikasleak": 643,
+  "irakasleak": "47",
+  "eredua": "A",
+  "urtea": ""
+ },
+ {
+  "izena": "Haranburu 17",
+  "udalerria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": "685",
+  "irakasleak": "64",
+  "eredua": "D",
+  "urtea": "2004"
+ },
+ {
+  "izena": "Mendi 2",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": "820",
+  "irakasleak": "54",
+  "eredua": "b",
+  "urtea": "1984"
+ },
+ {
+  "izena": "Zubieta 41",
+  "udalerria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": null,
+  "irakasleak": 41,
+  "eredua": "D",
+  "urtea": 1979
+ },
+ {
+  "izena": "Haranburu 9",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "PUBLIKOA",
+  "ikasleak": null,
+  "irakasleak": 67,
+  "eredua": "D",
+  "urtea": "2004"
+ },
+ {
+  "izena": "Aldapa 42",
+  "udalerria": "Gasteiz",
+  "probintzia": "Araba",
+  "mota": "Publikoa",
+  "ikasleak": "615",
+  "irakasleak": "56",
+  "eredua": "a",
+  "urtea": 1977
+ },
+ {
+  "izena": "Ikasbide 3",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "itunpekoa ",
+  "ikasleak": 406,
+  "irakasleak": 26,
+  "eredua": "D",
+  "urtea": "1979"
+ },
+ {
+  "izena": "Zubieta 38",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Publikoa",
+  "ikasleak": 555,
+  "irakasleak": "40",
+  "eredua": "D",
+  "urtea": 1954
+ },
+ {
+  "izena": "San Martin 26",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Itunpekoa",
+  "ikasleak": "224",
+  "irakasleak": "15",
+  "eredua": "A",
+  "urtea": 2012
+ },
+ {
+  "izena": "Mendi 57",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Publikoa",
+  "ikasleak": 583,
+  "irakasleak": 64,
+  "eredua": "B",
+  "urtea": "1977"
+ },
+ {
+  "izena": "Zubieta 14",
+  "udalerria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "mota": "itunpekoa ",
+  "ikasleak": "538",
+  "irakasleak": "37",
+  "eredua": "B",
+  "urtea": "2015"
+ },
+ {
+  "izena": "San Martin 13",
+  "udalerria": "Agurain",
+  "probintzia": "Araba",
+  "mota": "Itunpekoa",
+  "ikasleak": "837",
+  "irakasleak": 89,
+  "eredua": "B",
+  "urtea": 1961
+ },
+ {
+  "izena": "San Martin 49",
+  "udalerria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "mota": "Publikoa",
+  "ikasleak": 224,
+  "irakasleak": 18,
+  "eredua": "D",
+  "urtea": 1955
+ },
+ {
+  "izena": "Mendi 36",
+  "udalerria": "Getxo",
+  "probintzia": "Bizkaia",
+  "mota": "Publikoa",
+  "ikasleak": "83",
+  "irakasleak": "6",
+  "eredua": "A",
+  "urtea": 2008
+ },
+ {
+  "izena": "San Martin 39",
+  "udalerria": "Laudio",
+  "probintzia": "Araba",
+  "mota": "Itunpekoa",
+  "ikasleak": "289",
+  "irakasleak": 19,
+  "eredua": "B",
+  "urtea": 1959
+ }
+]
