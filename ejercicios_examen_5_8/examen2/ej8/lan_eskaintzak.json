@@ -1,0 +1,602 @@
+[
+ {
+  "izena": "Teknikaria 30",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "hezkuntza ",
+  "kontratua": "Mugagabea",
+  "soldata": "2.500 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Koordinatzailea 17",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "TEKNOLOGIA",
+  "kontratua": "Praktikak",
+  "soldata": "4.200 - 5.000 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Analista 51",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "INDUSTRIA",
+  "kontratua": "Mugagabea",
+  "soldata": "3.200 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Arduraduna 40",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "industria ",
+  "kontratua": "Praktikak",
+  "soldata": "3.100 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Laguntzailea 53",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "Industria",
+  "kontratua": "Mugatua",
+  "soldata": "3.400 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Teknikaria 35",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "Hezkuntza",
+  "kontratua": "Mugatua",
+  "soldata": "2.000 - 2.300 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Laguntzailea 10",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "Industria",
+  "kontratua": "Praktikak",
+  "soldata": "1.900 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Laguntzailea 33",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "hezkuntza ",
+  "kontratua": "Praktikak",
+  "soldata": "3.000 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Koordinatzailea 49",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Araba",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugatua",
+  "soldata": "3.300 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Laguntzailea 56",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "industria ",
+  "kontratua": "Mugagabea",
+  "soldata": "Negoziagarria",
+  "urrunekoa": "bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Arduraduna 6",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "osasuna ",
+  "kontratua": "Praktikak",
+  "soldata": "2.200 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Analista 1",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "industria ",
+  "kontratua": "Mugagabea",
+  "soldata": "1.900 - 2.200 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Arduraduna 3",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Industria",
+  "kontratua": "Mugatua",
+  "soldata": "3.200 - 3.700 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Arduraduna 18",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Osasuna",
+  "kontratua": "Praktikak",
+  "soldata": "2.100 - 2.600 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Laguntzailea 38",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "HEZKUNTZA",
+  "kontratua": "Praktikak",
+  "soldata": "1.500 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Arduraduna 44",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Hezkuntza",
+  "kontratua": "Mugatua",
+  "soldata": "2.300 - 2.600 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Arduraduna 27",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "Teknologia",
+  "kontratua": "Praktikak",
+  "soldata": "4.000 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Laguntzailea 14",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "Industria",
+  "kontratua": "Mugatua",
+  "soldata": "1.800 - 2.600 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Koordinatzailea 39",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "HEZKUNTZA",
+  "kontratua": "Mugatua",
+  "soldata": "Negoziagarria",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Koordinatzailea 50",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugagabea",
+  "soldata": "2.200 - 2.500 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Teknikaria 22",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "TEKNOLOGIA",
+  "kontratua": "Mugatua",
+  "soldata": "3.800 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Analista 28",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Araba",
+  "sektorea": "hezkuntza ",
+  "kontratua": "Mugagabea",
+  "soldata": "1.800 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Analista 11",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "TEKNOLOGIA",
+  "kontratua": "Praktikak",
+  "soldata": "2.300 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Analista 9",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Teknologia",
+  "kontratua": "Mugagabea",
+  "soldata": "4.000 - 4.300 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Laguntzailea 46",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "Hezkuntza",
+  "kontratua": "Mugatua",
+  "soldata": "2.200 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Laguntzailea 24",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugagabea",
+  "soldata": "2.400 - 2.700 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Laguntzailea 15",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "INDUSTRIA",
+  "kontratua": "Mugatua",
+  "soldata": "2.300 - 2.800 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Koordinatzailea 4",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "teknologia ",
+  "kontratua": "Mugagabea",
+  "soldata": "Negoziagarria",
+  "urrunekoa": "EZ",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Analista 31",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Osasuna",
+  "kontratua": "Praktikak",
+  "soldata": "2.100 - 2.400 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Arduraduna 43",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "Teknologia",
+  "kontratua": "Praktikak",
+  "soldata": "3.000 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Arduraduna 54",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Araba",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugagabea",
+  "soldata": "2.700 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Teknikaria 45",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "teknologia ",
+  "kontratua": "Mugagabea",
+  "soldata": "3.500 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Analista 48",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugatua",
+  "soldata": "Negoziagarria",
+  "urrunekoa": "Ez",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Analista 20",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "OSASUNA",
+  "kontratua": "Praktikak",
+  "soldata": "2.400 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Analista 23",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Araba",
+  "sektorea": "hezkuntza ",
+  "kontratua": "Mugatua",
+  "soldata": "2.400 - 2.900 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Teknikaria 34",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "INDUSTRIA",
+  "kontratua": "Mugagabea",
+  "soldata": "2.900 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Laguntzailea 2",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Araba",
+  "sektorea": "INDUSTRIA",
+  "kontratua": "Mugagabea",
+  "soldata": "2.500 - 3.000 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Teknikaria 25",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "OSASUNA",
+  "kontratua": "Mugatua",
+  "soldata": "Negoziagarria",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Arduraduna 58",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "osasuna ",
+  "kontratua": "Praktikak",
+  "soldata": "2.400 - 3.200 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Teknikaria 29",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Teknologia",
+  "kontratua": "Praktikak",
+  "soldata": "4.100 - 4.600 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Koordinatzailea 13",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "teknologia ",
+  "kontratua": "Mugagabea",
+  "soldata": "4.300 - 4.600 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Teknikaria 16",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugagabea",
+  "soldata": "2.300 - 2.600 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Laguntzailea 37",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "osasuna ",
+  "kontratua": "Praktikak",
+  "soldata": "2.400 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Analista 21",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Araba",
+  "sektorea": "hezkuntza ",
+  "kontratua": "Praktikak",
+  "soldata": "2.600 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Koordinatzailea 32",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Araba",
+  "sektorea": "HEZKUNTZA",
+  "kontratua": "Praktikak",
+  "soldata": "2.500 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Arduraduna 47",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugatua",
+  "soldata": "1.800 €/hilabete",
+  "urrunekoa": "EZ",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Teknikaria 52",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "OSASUNA",
+  "kontratua": "Mugatua",
+  "soldata": "2.500 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Laguntzailea 8",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "hezkuntza ",
+  "kontratua": "Mugatua",
+  "soldata": "1.700 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Laguntzailea 60",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Araba",
+  "sektorea": "teknologia ",
+  "kontratua": "Mugagabea",
+  "soldata": "3.300 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Koordinatzailea 7",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "Hezkuntza",
+  "kontratua": "Mugatua",
+  "soldata": "2.100 - 2.900 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Arduraduna 26",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Osasuna",
+  "kontratua": "Mugagabea",
+  "soldata": "2.500 - 3.300 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Koordinatzailea 12",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Araba",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugatua",
+  "soldata": "Negoziagarria",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Koordinatzailea 57",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "osasuna ",
+  "kontratua": "Mugatua",
+  "soldata": "3.200 - 4.000 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Koordinatzailea 19",
+  "enpresa": "Goi S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "industria ",
+  "kontratua": "Mugatua",
+  "soldata": "2.700 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "5 urte"
+ },
+ {
+  "izena": "Analista 55",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "teknologia ",
+  "kontratua": "Mugagabea",
+  "soldata": "2.900 - 3.700 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Koordinatzailea 41",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Gipuzkoa",
+  "sektorea": "industria ",
+  "kontratua": "Praktikak",
+  "soldata": "2.500 - 3.000 €/hilabete",
+  "urrunekoa": "Ez",
+  "esperientzia": "1 urte"
+ },
+ {
+  "izena": "Arduraduna 59",
+  "enpresa": "Haritz S.A.",
+  "probintzia": "Araba",
+  "sektorea": "Industria",
+  "kontratua": "Praktikak",
+  "soldata": "2.200 €/hilabete",
+  "urrunekoa": "bai",
+  "esperientzia": "3 urte"
+ },
+ {
+  "izena": "Analista 42",
+  "enpresa": "Ekin S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "teknologia ",
+  "kontratua": "Mugatua",
+  "soldata": "3.200 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "Esperientziarik gabe"
+ },
+ {
+  "izena": "Koordinatzailea 5",
+  "enpresa": "Itzal S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "TEKNOLOGIA",
+  "kontratua": "Praktikak",
+  "soldata": "3.800 €/hilabete",
+  "urrunekoa": "Hibridoa",
+  "esperientzia": "2 urte"
+ },
+ {
+  "izena": "Arduraduna 36",
+  "enpresa": "Alai S.A.",
+  "probintzia": "Bizkaia",
+  "sektorea": "TEKNOLOGIA",
+  "kontratua": "Praktikak",
+  "soldata": "4.200 €/hilabete",
+  "urrunekoa": "Bai",
+  "esperientzia": "1 urte"
+ }
+]

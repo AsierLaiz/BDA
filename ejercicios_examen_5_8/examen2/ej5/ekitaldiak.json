@@ -1,0 +1,542 @@
+[
+ {
+  "izena": "Lehiaketa Eibar 32",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "KIROLA",
+  "datak": "15/05/2024 - 16/05/2024",
+  "prezioa": "12,50 €",
+  "aforoa": "3.695"
+ },
+ {
+  "izena": "Erakusketa Agurain 19",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "tradizioa",
+  "datak": "20/05/2024 - 23/05/2024",
+  "prezioa": "Zehazteko",
+  "aforoa": "1.460"
+ },
+ {
+  "izena": "Jaia Donostia 12",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "KIROLA",
+  "datak": "19/12/2024 - 23/12/2024",
+  "prezioa": "DOAN",
+  "aforoa": 3205
+ },
+ {
+  "izena": "Erakusketa Gasteiz 57",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "kategoria": "Musika",
+  "datak": "07/12/2024 - 10/12/2024",
+  "prezioa": "DOAN",
+  "aforoa": "2.721"
+ },
+ {
+  "izena": "Jaialdia Donostia 3",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Musika",
+  "datak": "20/03/2024 - 22/03/2024",
+  "prezioa": "Doan",
+  "aforoa": 1865
+ },
+ {
+  "izena": "Jaia Getxo 59",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Kirola",
+  "datak": "03/06/2024",
+  "prezioa": "DOAN",
+  "aforoa": "2.797"
+ },
+ {
+  "izena": "Azoka Agurain 17",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "gastronomia",
+  "datak": "09/06/2024 - 13/06/2024",
+  "prezioa": "12,50 €",
+  "aforoa": "3.834"
+ },
+ {
+  "izena": "Lehiaketa Bilbo 44",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "MUSIKA",
+  "datak": "06/01/2024",
+  "prezioa": "DOAN",
+  "aforoa": 3005
+ },
+ {
+  "izena": "Jaialdia Laudio 55",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "kategoria": "Kirola",
+  "datak": "04/09/2024",
+  "prezioa": "doan",
+  "aforoa": "3.448"
+ },
+ {
+  "izena": "Lehiaketa Getxo 26",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "GASTRONOMIA",
+  "datak": "23/08/2024",
+  "prezioa": "8 €",
+  "aforoa": "n/a"
+ },
+ {
+  "izena": "Jaia Getxo 52",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Tradizioa",
+  "datak": "02/01/2024",
+  "prezioa": "doan",
+  "aforoa": 570
+ },
+ {
+  "izena": "Azoka Donostia 27",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Gastronomia",
+  "datak": "16/05/2024 - 18/05/2024",
+  "prezioa": "Doan",
+  "aforoa": 3782
+ },
+ {
+  "izena": "Jaialdia Barakaldo 42",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "tradizioa",
+  "datak": "08/06/2023",
+  "prezioa": "doan",
+  "aforoa": "3.310"
+ },
+ {
+  "izena": "Jaia Bilbo 33",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "tradizioa",
+  "datak": "18/12/2024 - 21/12/2024",
+  "prezioa": "DOAN",
+  "aforoa": 4949
+ },
+ {
+  "izena": "Lehiaketa Gasteiz 36",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "kategoria": "musika",
+  "datak": "04/09/2024 - 05/09/2024",
+  "prezioa": "Zehazteko",
+  "aforoa": 4862
+ },
+ {
+  "izena": "Azoka Barakaldo 48",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Kirola",
+  "datak": "07/01/2024 - 09/01/2024",
+  "prezioa": "30 €",
+  "aforoa": "3.435"
+ },
+ {
+  "izena": "Jaialdia Bilbo 35",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Musika",
+  "datak": "05/12/2024 - 09/12/2024",
+  "prezioa": "8 €",
+  "aforoa": "1.667"
+ },
+ {
+  "izena": "Lehiaketa Irun 14",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "KIROLA",
+  "datak": "13/02/2024 - 15/02/2024",
+  "prezioa": "doan",
+  "aforoa": 1625
+ },
+ {
+  "izena": "Azoka Bilbo 5",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "GASTRONOMIA",
+  "datak": "11/02/2024",
+  "prezioa": "Zehazteko",
+  "aforoa": 2918
+ },
+ {
+  "izena": "Azoka Irun 4",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "KIROLA",
+  "datak": "22/09/2024 - 24/09/2024",
+  "prezioa": "DOAN",
+  "aforoa": 2597
+ },
+ {
+  "izena": "Jaia Gasteiz 54",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "kategoria": "MUSIKA",
+  "datak": "18/08/2023",
+  "prezioa": "DOAN",
+  "aforoa": 4428
+ },
+ {
+  "izena": "Jaialdia Bilbo 20",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Kirola",
+  "datak": "23/11/2024",
+  "prezioa": "Doan",
+  "aforoa": 593
+ },
+ {
+  "izena": "Lehiaketa Eibar 58",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "KIROLA",
+  "datak": "01/10/2024",
+  "prezioa": "Doan",
+  "aforoa": 536
+ },
+ {
+  "izena": "Lehiaketa Laudio 16",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "kategoria": "GASTRONOMIA",
+  "datak": "06/11/2024 - 07/11/2024",
+  "prezioa": "doan",
+  "aforoa": "2.819"
+ },
+ {
+  "izena": "Erakusketa Irun 49",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "GASTRONOMIA",
+  "datak": "24/02/2024 - 28/02/2024",
+  "prezioa": "Doan",
+  "aforoa": 1860
+ },
+ {
+  "izena": "Lehiaketa Eibar 31",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "TRADIZIOA",
+  "datak": "04/11/2024 - 06/11/2024",
+  "prezioa": "DOAN",
+  "aforoa": "4.865"
+ },
+ {
+  "izena": "Jaialdia Bilbo 37",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "tradizioa",
+  "datak": "11/02/2024 - 15/02/2024",
+  "prezioa": "9,50 €",
+  "aforoa": 3215
+ },
+ {
+  "izena": "Lehiaketa Eibar 25",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "MUSIKA",
+  "datak": "04/07/2024",
+  "prezioa": "Doan",
+  "aforoa": "2.816"
+ },
+ {
+  "izena": "Azoka Irun 2",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Kirola",
+  "datak": "18/07/2024",
+  "prezioa": "12,50 €",
+  "aforoa": "1.925"
+ },
+ {
+  "izena": "Azoka Donostia 46",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "GASTRONOMIA",
+  "datak": "09/02/2024 - 12/02/2024",
+  "prezioa": "Doan",
+  "aforoa": 4098
+ },
+ {
+  "izena": "Azoka Irun 6",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "GASTRONOMIA",
+  "datak": "16/03/2024",
+  "prezioa": "doan",
+  "aforoa": 337
+ },
+ {
+  "izena": "Azoka Eibar 45",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "TRADIZIOA",
+  "datak": "15/06/2024",
+  "prezioa": "12,50 €",
+  "aforoa": "n/a"
+ },
+ {
+  "izena": "Jaia Eibar 30",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Gastronomia",
+  "datak": "10/10/2023 - 11/10/2023",
+  "prezioa": "doan",
+  "aforoa": 4989
+ },
+ {
+  "izena": "Azoka Agurain 15",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "gastronomia",
+  "datak": "12/02/2024 - 13/02/2024",
+  "prezioa": "15 €",
+  "aforoa": "2.450"
+ },
+ {
+  "izena": "Jaialdia Eibar 43",
+  "herria": "Eibar",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "GASTRONOMIA",
+  "datak": "14/11/2024 - 17/11/2024",
+  "prezioa": "30 €",
+  "aforoa": 4846
+ },
+ {
+  "izena": "Erakusketa Donostia 21",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Tradizioa",
+  "datak": "18/04/2024",
+  "prezioa": "DOAN",
+  "aforoa": 739
+ },
+ {
+  "izena": "Jaia Gasteiz 56",
+  "herria": "Gasteiz",
+  "probintzia": "Araba",
+  "kategoria": "TRADIZIOA",
+  "datak": "23/04/2024",
+  "prezioa": "22,50 €",
+  "aforoa": "2.160"
+ },
+ {
+  "izena": "Lehiaketa Irun 8",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Gastronomia",
+  "datak": "09/09/2024 - 10/09/2024",
+  "prezioa": "doan",
+  "aforoa": "n/a"
+ },
+ {
+  "izena": "Jaialdia Agurain 51",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "gastronomia",
+  "datak": "23/02/2024",
+  "prezioa": "DOAN",
+  "aforoa": "n/a"
+ },
+ {
+  "izena": "Jaialdia Agurain 60",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "musika",
+  "datak": "04/01/2024",
+  "prezioa": "DOAN",
+  "aforoa": 2264
+ },
+ {
+  "izena": "Jaialdia Irun 29",
+  "herria": "Irun",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "TRADIZIOA",
+  "datak": "16/10/2024",
+  "prezioa": "Doan",
+  "aforoa": 282
+ },
+ {
+  "izena": "Jaia Barakaldo 10",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "kirola",
+  "datak": "23/12/2024",
+  "prezioa": "12,50 €",
+  "aforoa": 547
+ },
+ {
+  "izena": "Lehiaketa Agurain 41",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "Tradizioa",
+  "datak": "05/01/2024 - 09/01/2024",
+  "prezioa": "12,50 €",
+  "aforoa": 1100
+ },
+ {
+  "izena": "Jaia Laudio 50",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "kategoria": "musika",
+  "datak": "02/08/2024",
+  "prezioa": "Doan",
+  "aforoa": 518
+ },
+ {
+  "izena": "Erakusketa Getxo 39",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "tradizioa",
+  "datak": "13/12/2024",
+  "prezioa": "12,50 €",
+  "aforoa": 2948
+ },
+ {
+  "izena": "Jaia Getxo 34",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Musika",
+  "datak": "22/02/2024 - 25/02/2024",
+  "prezioa": "Doan",
+  "aforoa": "3.469"
+ },
+ {
+  "izena": "Erakusketa Barakaldo 18",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "kirola",
+  "datak": "12/04/2024 - 16/04/2024",
+  "prezioa": "Doan",
+  "aforoa": 3563
+ },
+ {
+  "izena": "Jaia Barakaldo 7",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Tradizioa",
+  "datak": "13/06/2024 - 14/06/2024",
+  "prezioa": "12,50 €",
+  "aforoa": 1632
+ },
+ {
+  "izena": "Lehiaketa Donostia 47",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "musika",
+  "datak": "15/11/2024",
+  "prezioa": "12,50 €",
+  "aforoa": "2.806"
+ },
+ {
+  "izena": "Erakusketa Barakaldo 53",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Tradizioa",
+  "datak": "18/04/2024",
+  "prezioa": "Doan",
+  "aforoa": 4589
+ },
+ {
+  "izena": "Erakusketa Bilbo 40",
+  "herria": "Bilbo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Musika",
+  "datak": "20/09/2024",
+  "prezioa": "DOAN",
+  "aforoa": 2798
+ },
+ {
+  "izena": "Erakusketa Donostia 38",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "Gastronomia",
+  "datak": "18/09/2024 - 21/09/2024",
+  "prezioa": "Doan",
+  "aforoa": "2.232"
+ },
+ {
+  "izena": "Jaia Laudio 11",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "kategoria": "MUSIKA",
+  "datak": "24/04/2023 - 27/04/2023",
+  "prezioa": "DOAN",
+  "aforoa": 1342
+ },
+ {
+  "izena": "Jaialdia Laudio 1",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "kategoria": "Gastronomia",
+  "datak": "24/12/2024 - 25/12/2024",
+  "prezioa": "12,50 €",
+  "aforoa": 574
+ },
+ {
+  "izena": "Lehiaketa Laudio 23",
+  "herria": "Laudio",
+  "probintzia": "Araba",
+  "kategoria": "musika",
+  "datak": "18/05/2024",
+  "prezioa": "doan",
+  "aforoa": "1.208"
+ },
+ {
+  "izena": "Jaia Barakaldo 22",
+  "herria": "Barakaldo",
+  "probintzia": "Bizkaia",
+  "kategoria": "gastronomia",
+  "datak": "12/01/2024",
+  "prezioa": "Doan",
+  "aforoa": "4.633"
+ },
+ {
+  "izena": "Azoka Donostia 13",
+  "herria": "Donostia",
+  "probintzia": "Gipuzkoa",
+  "kategoria": "TRADIZIOA",
+  "datak": "06/10/2024 - 10/10/2024",
+  "prezioa": "22,50 €",
+  "aforoa": "2.752"
+ },
+ {
+  "izena": "Erakusketa Agurain 24",
+  "herria": "Agurain",
+  "probintzia": "Araba",
+  "kategoria": "Gastronomia",
+  "datak": "05/08/2024",
+  "prezioa": "DOAN",
+  "aforoa": 1781
+ },
+ {
+  "izena": "Azoka Getxo 9",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "Gastronomia",
+  "datak": "11/03/2024",
+  "prezioa": "Doan",
+  "aforoa": "2.709"
+ },
+ {
+  "izena": "Jaialdia Getxo 28",
+  "herria": "Getxo",
+  "probintzia": "Bizkaia",
+  "kategoria": "musika",
+  "datak": "18/08/2024 - 20/08/2024",
+  "prezioa": "Doan",
+  "aforoa": "4.165"
+ }
+]

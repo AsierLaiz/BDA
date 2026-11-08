@@ -1,0 +1,830 @@
+[
+ {
+  "izena": "Zentro Gozo 11",
+  "kokapena": {
+   "udalerria": "GASTEIZ",
+   "probintzia": "Araba",
+   "lat": "42.84549",
+   "lon": "-2.63827"
+  },
+  "zerbitzuak": [
+   "gimnasioa ",
+   "sauna "
+  ],
+  "kuota": "29,83 €/hilabete",
+  "bazkideak": "2.000"
+ },
+ {
+  "izena": "Fitness Alai 41",
+  "kokapena": {
+   "udalerria": "Eibar ",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.23295",
+   "lon": "-2.00639"
+  },
+  "zerbitzuak": [
+   "Boulder",
+   "Sauna",
+   "padel ",
+   "IGERILEKUA"
+  ],
+  "kuota": "39,63 €/hilabete",
+  "bazkideak": 2188
+ },
+ {
+  "izena": "Zentro Hiria 7",
+  "kokapena": {
+   "udalerria": "EIBAR",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.34689",
+   "lon": "-1.99310"
+  },
+  "zerbitzuak": [
+   "Padel",
+   "Spa",
+   "sauna ",
+   "Boulder"
+  ],
+  "kuota": "39,83 €/hilabete",
+  "bazkideak": 782
+ },
+ {
+  "izena": "Zentro Gozo 15",
+  "kokapena": {
+   "udalerria": "AGURAIN",
+   "probintzia": "Araba",
+   "lat": "42.75193",
+   "lon": "-2.53205"
+  },
+  "zerbitzuak": [
+   "Spa"
+  ],
+  "kuota": "24,09 €/hilabete",
+  "bazkideak": 1532
+ },
+ {
+  "izena": "Sport Indar 31",
+  "kokapena": {
+   "udalerria": "Getxo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.16055",
+   "lon": "-2.80394"
+  },
+  "zerbitzuak": [
+   "PADEL"
+  ],
+  "kuota": "26,82 €/hilabete",
+  "bazkideak": "1.732"
+ },
+ {
+  "izena": "Kirol Etxea Gozo 18",
+  "kokapena": {
+   "udalerria": "Irun",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.27099",
+   "lon": "-1.86379"
+  },
+  "zerbitzuak": [
+   "gimnasioa ",
+   "SPA"
+  ],
+  "kuota": "32,30 €/hilabete",
+  "bazkideak": 1076
+ },
+ {
+  "izena": "Sport Osasun 34",
+  "kokapena": {
+   "udalerria": "Laudio",
+   "probintzia": "Araba",
+   "lat": "42.87995",
+   "lon": "-2.74269"
+  },
+  "zerbitzuak": [
+   "Spa"
+  ],
+  "kuota": "24,31 €/hilabete",
+  "bazkideak": 2832
+ },
+ {
+  "izena": "Kirol Etxea Osasun 36",
+  "kokapena": {
+   "udalerria": "Irun",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.37339",
+   "lon": "-1.81146"
+  },
+  "zerbitzuak": [
+   "spa ",
+   "Igerilekua",
+   "BOULDER",
+   "Gimnasioa"
+  ],
+  "kuota": "42,41 €/hilabete",
+  "bazkideak": 2030
+ },
+ {
+  "izena": "Fitness Osasun 22",
+  "kokapena": {
+   "udalerria": "IRUN",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.27036",
+   "lon": "-2.12687"
+  },
+  "zerbitzuak": [
+   "Boulder",
+   "spa ",
+   "Sauna",
+   "IGERILEKUA",
+   "Gimnasioa"
+  ],
+  "kuota": "42,23 €/hilabete",
+  "bazkideak": 2076
+ },
+ {
+  "izena": "Fitness Osasun 42",
+  "kokapena": {
+   "udalerria": "Eibar ",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.26658",
+   "lon": "-1.88588"
+  },
+  "zerbitzuak": [
+   "Sauna"
+  ],
+  "kuota": "25,69 €/hilabete",
+  "bazkideak": 670
+ },
+ {
+  "izena": "Kirol Etxea Alai 32",
+  "kokapena": {
+   "udalerria": "Getxo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.30669",
+   "lon": "-2.74151"
+  },
+  "zerbitzuak": [
+   "Sauna",
+   "BOULDER"
+  ],
+  "kuota": "33,12 €/hilabete",
+  "bazkideak": "2.748"
+ },
+ {
+  "izena": "Sport Indar 31",
+  "kokapena": {
+   "udalerria": "GETXO",
+   "probintzia": "Bizkaia",
+   "lat": "43.16055",
+   "lon": "-2.80394"
+  },
+  "zerbitzuak": [
+   "PADEL"
+  ],
+  "kuota": "26,82 €/hilabete",
+  "bazkideak": "1.732"
+ },
+ {
+  "izena": "Fitness Gozo 46",
+  "kokapena": {
+   "udalerria": "Laudio ",
+   "probintzia": "Araba",
+   "lat": "42.90815",
+   "lon": "-2.66776"
+  },
+  "zerbitzuak": [
+   "boulder "
+  ],
+  "kuota": "21,61 €/hilabete",
+  "bazkideak": 534
+ },
+ {
+  "izena": "Sport Hiria 43",
+  "kokapena": {
+   "udalerria": "IRUN",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.22755",
+   "lon": "-1.96306"
+  },
+  "zerbitzuak": [
+   "Spa"
+  ],
+  "kuota": "23,75 €/hilabete",
+  "bazkideak": 1428
+ },
+ {
+  "izena": "Aktiba Hiria 3",
+  "kokapena": {
+   "udalerria": "BILBO",
+   "probintzia": "Bizkaia",
+   "lat": "43.23148",
+   "lon": "-3.08217"
+  },
+  "zerbitzuak": [
+   "Gimnasioa",
+   "Padel",
+   "Sauna",
+   "Igerilekua",
+   "Spa"
+  ],
+  "kuota": "46,07 €/hilabete",
+  "bazkideak": 1203
+ },
+ {
+  "izena": "Zentro Gozo 15",
+  "kokapena": {
+   "udalerria": "AGURAIN",
+   "probintzia": "Araba",
+   "lat": "42.75193",
+   "lon": "-2.53205"
+  },
+  "zerbitzuak": [
+   "Spa"
+  ],
+  "kuota": "24,09 €/hilabete",
+  "bazkideak": 1532
+ },
+ {
+  "izena": "Kirol Etxea Indar 45",
+  "kokapena": {
+   "udalerria": "Irun ",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.38323",
+   "lon": "-1.95539"
+  },
+  "zerbitzuak": [
+   "Padel",
+   "Sauna"
+  ],
+  "kuota": "28,96 €/hilabete",
+  "bazkideak": 1717
+ },
+ {
+  "izena": "Aktiba Hiria 3",
+  "kokapena": {
+   "udalerria": "BILBO",
+   "probintzia": "Bizkaia",
+   "lat": "43.23148",
+   "lon": "-3.08217"
+  },
+  "zerbitzuak": [
+   "Gimnasioa",
+   "Padel",
+   "Sauna",
+   "Igerilekua",
+   "Spa"
+  ],
+  "kuota": "46,07 €/hilabete",
+  "bazkideak": 1203
+ },
+ {
+  "izena": "Sport Hiria 26",
+  "kokapena": {
+   "udalerria": "Barakaldo",
+   "probintzia": "Bizkaia",
+   "lat": "43.27438",
+   "lon": "-2.83641"
+  },
+  "zerbitzuak": [
+   "sauna ",
+   "boulder "
+  ],
+  "kuota": "30,98 €/hilabete",
+  "bazkideak": 2715
+ },
+ {
+  "izena": "Zentro Gozo 30",
+  "kokapena": {
+   "udalerria": "Agurain ",
+   "probintzia": "Araba",
+   "lat": "42.80096",
+   "lon": "-2.53231"
+  },
+  "zerbitzuak": [
+   "Boulder",
+   "spa "
+  ],
+  "kuota": "33,77 €/hilabete",
+  "bazkideak": 2358
+ },
+ {
+  "izena": "Kirol Etxea Osasun 19",
+  "kokapena": {
+   "udalerria": "IRUN",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.35714",
+   "lon": "-1.79152"
+  },
+  "zerbitzuak": [
+   "Gimnasioa"
+  ],
+  "kuota": "28,59 €/hilabete",
+  "bazkideak": 314
+ },
+ {
+  "izena": "Zentro Osasun 29",
+  "kokapena": {
+   "udalerria": "DONOSTIA",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.38031",
+   "lon": "-1.86987"
+  },
+  "zerbitzuak": [
+   "Igerilekua",
+   "Sauna",
+   "Gimnasioa",
+   "Padel"
+  ],
+  "kuota": "43,91 €/hilabete",
+  "bazkideak": 896
+ },
+ {
+  "izena": "Aktiba Gozo 24",
+  "kokapena": {
+   "udalerria": "Agurain ",
+   "probintzia": "Araba",
+   "lat": "42.89393",
+   "lon": "-2.80795"
+  },
+  "zerbitzuak": [
+   "Padel"
+  ],
+  "kuota": "22,05 €/hilabete",
+  "bazkideak": 648
+ },
+ {
+  "izena": "Aktiba Osasun 33",
+  "kokapena": {
+   "udalerria": "Donostia ",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.27313",
+   "lon": "-1.79191"
+  },
+  "zerbitzuak": [
+   "Sauna"
+  ],
+  "kuota": "26,30 €/hilabete",
+  "bazkideak": "2.263"
+ },
+ {
+  "izena": "Sport Alai 49",
+  "kokapena": {
+   "udalerria": "Barakaldo",
+   "probintzia": "Bizkaia",
+   "lat": "43.26692",
+   "lon": "-2.94414"
+  },
+  "zerbitzuak": [
+   "Padel",
+   "Gimnasioa",
+   "Sauna",
+   "BOULDER",
+   "Igerilekua"
+  ],
+  "kuota": "46,04 €/hilabete",
+  "bazkideak": 230
+ },
+ {
+  "izena": "Zentro Indar 44",
+  "kokapena": {
+   "udalerria": "Getxo",
+   "probintzia": "Bizkaia",
+   "lat": "43.23485",
+   "lon": "-3.07243"
+  },
+  "zerbitzuak": [
+   "Spa"
+  ],
+  "kuota": "24,32 €/hilabete",
+  "bazkideak": 1537
+ },
+ {
+  "izena": "Kirol Etxea Indar 9",
+  "kokapena": {
+   "udalerria": "Getxo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.28512",
+   "lon": "-2.88737"
+  },
+  "zerbitzuak": [
+   "Igerilekua",
+   "Sauna",
+   "Spa",
+   "Boulder",
+   "Gimnasioa"
+  ],
+  "kuota": "42,86 €/hilabete",
+  "bazkideak": "1.719"
+ },
+ {
+  "izena": "Fitness Alai 6",
+  "kokapena": {
+   "udalerria": "Irun ",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.24470",
+   "lon": "-1.94423"
+  },
+  "zerbitzuak": [
+   "Igerilekua",
+   "Gimnasioa",
+   "Padel",
+   "spa "
+  ],
+  "kuota": "",
+  "bazkideak": 905
+ },
+ {
+  "izena": "Fitness Indar 10",
+  "kokapena": {
+   "udalerria": "Gasteiz ",
+   "probintzia": "Araba",
+   "lat": "42.87624",
+   "lon": "-2.76393"
+  },
+  "zerbitzuak": [
+   "boulder "
+  ],
+  "kuota": "25,41 €/hilabete",
+  "bazkideak": "2.725"
+ },
+ {
+  "izena": "Fitness Indar 8",
+  "kokapena": {
+   "udalerria": "Eibar",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.34199",
+   "lon": "-1.95209"
+  },
+  "zerbitzuak": [
+   "Sauna",
+   "Gimnasioa",
+   "padel ",
+   "BOULDER"
+  ],
+  "kuota": "36,05 €/hilabete",
+  "bazkideak": 2040
+ },
+ {
+  "izena": "Fitness Indar 17",
+  "kokapena": {
+   "udalerria": "Gasteiz ",
+   "probintzia": "Araba",
+   "lat": "42.83759",
+   "lon": "-2.48678"
+  },
+  "zerbitzuak": [
+   "GIMNASIOA",
+   "Spa",
+   "padel ",
+   "Igerilekua"
+  ],
+  "kuota": "39,77 €/hilabete",
+  "bazkideak": "2.548"
+ },
+ {
+  "izena": "Kirol Etxea Indar 50",
+  "kokapena": {
+   "udalerria": "IRUN",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.34642",
+   "lon": "-2.14548"
+  },
+  "zerbitzuak": [
+   "Padel",
+   "Spa"
+  ],
+  "kuota": "33,92 €/hilabete",
+  "bazkideak": 2586
+ },
+ {
+  "izena": "Fitness Alai 12",
+  "kokapena": {
+   "udalerria": "Bilbo",
+   "probintzia": "Bizkaia",
+   "lat": "43.32327",
+   "lon": "-2.87457"
+  },
+  "zerbitzuak": [
+   "Padel",
+   "Boulder",
+   "Spa",
+   "Gimnasioa",
+   "Sauna"
+  ],
+  "kuota": "44,55 €/hilabete",
+  "bazkideak": 1721
+ },
+ {
+  "izena": "Fitness Indar 35",
+  "kokapena": {
+   "udalerria": "Barakaldo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.21263",
+   "lon": "-3.12952"
+  },
+  "zerbitzuak": [
+   "Igerilekua"
+  ],
+  "kuota": "24,51 €/hilabete",
+  "bazkideak": "2.385"
+ },
+ {
+  "izena": "Fitness Indar 4",
+  "kokapena": {
+   "udalerria": "Irun",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.22341",
+   "lon": "-2.04684"
+  },
+  "zerbitzuak": [
+   "gimnasioa ",
+   "Spa"
+  ],
+  "kuota": "27,68 €/hilabete",
+  "bazkideak": "2.338"
+ },
+ {
+  "izena": "Kirol Etxea Osasun 25",
+  "kokapena": {
+   "udalerria": "Gasteiz",
+   "probintzia": "Araba",
+   "lat": "42.94471",
+   "lon": "-2.54256"
+  },
+  "zerbitzuak": [
+   "Boulder"
+  ],
+  "kuota": "27,04 €/hilabete",
+  "bazkideak": 1085
+ },
+ {
+  "izena": "Kirol Etxea Alai 27",
+  "kokapena": {
+   "udalerria": "Barakaldo",
+   "probintzia": "Bizkaia",
+   "lat": "43.21493",
+   "lon": "-2.84148"
+  },
+  "zerbitzuak": [
+   "Sauna"
+  ],
+  "kuota": "28,95 €/hilabete",
+  "bazkideak": "2.066"
+ },
+ {
+  "izena": "Fitness Osasun 37",
+  "kokapena": {
+   "udalerria": "Gasteiz",
+   "probintzia": "Araba",
+   "lat": "42.92804",
+   "lon": "-2.80849"
+  },
+  "zerbitzuak": [
+   "SAUNA"
+  ],
+  "kuota": "23,06 €/hilabete",
+  "bazkideak": "1.070"
+ },
+ {
+  "izena": "Zentro Hiria 13",
+  "kokapena": {
+   "udalerria": "Laudio ",
+   "probintzia": "Araba",
+   "lat": "42.76504",
+   "lon": "-2.84041"
+  },
+  "zerbitzuak": [
+   "Igerilekua",
+   "Gimnasioa",
+   "Boulder"
+  ],
+  "kuota": "34,20 €/hilabete",
+  "bazkideak": 755
+ },
+ {
+  "izena": "Fitness Indar 21",
+  "kokapena": {
+   "udalerria": "BARAKALDO",
+   "probintzia": "Bizkaia",
+   "lat": "43.18095",
+   "lon": "-3.05957"
+  },
+  "zerbitzuak": [
+   "Spa",
+   "SAUNA",
+   "Boulder",
+   "Gimnasioa"
+  ],
+  "kuota": "38,03 €/hilabete",
+  "bazkideak": "1.424"
+ },
+ {
+  "izena": "Aktiba Alai 23",
+  "kokapena": {
+   "udalerria": "Gasteiz ",
+   "probintzia": "Araba",
+   "lat": "42.85497",
+   "lon": "-2.48253"
+  },
+  "zerbitzuak": [
+   "sauna ",
+   "boulder "
+  ],
+  "kuota": "27,01 €/hilabete",
+  "bazkideak": 804
+ },
+ {
+  "izena": "Sport Indar 48",
+  "kokapena": {
+   "udalerria": "BARAKALDO",
+   "probintzia": "Bizkaia",
+   "lat": "43.20657",
+   "lon": "-2.95752"
+  },
+  "zerbitzuak": [
+   "gimnasioa ",
+   "Padel",
+   "Sauna",
+   "Boulder",
+   "Spa"
+  ],
+  "kuota": "46,27 €/hilabete",
+  "bazkideak": "1.995"
+ },
+ {
+  "izena": "Kirol Etxea Hiria 2",
+  "kokapena": {
+   "udalerria": "AGURAIN",
+   "probintzia": "Araba",
+   "lat": "42.83904",
+   "lon": "-2.83249"
+  },
+  "zerbitzuak": [
+   "Sauna"
+  ],
+  "kuota": "23,68 €/hilabete",
+  "bazkideak": 581
+ },
+ {
+  "izena": "Zentro Alai 28",
+  "kokapena": {
+   "udalerria": "Barakaldo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.33778",
+   "lon": "-3.06966"
+  },
+  "zerbitzuak": [
+   "gimnasioa ",
+   "Boulder",
+   "PADEL"
+  ],
+  "kuota": "36,34 €/hilabete",
+  "bazkideak": "2.121"
+ },
+ {
+  "izena": "Fitness Hiria 5",
+  "kokapena": {
+   "udalerria": "Donostia",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.38113",
+   "lon": "-2.14438"
+  },
+  "zerbitzuak": [
+   "Igerilekua",
+   "gimnasioa ",
+   "Sauna",
+   "PADEL"
+  ],
+  "kuota": "41,97 €/hilabete",
+  "bazkideak": "1.829"
+ },
+ {
+  "izena": "Kirol Etxea Indar 47",
+  "kokapena": {
+   "udalerria": "Gasteiz ",
+   "probintzia": "Araba",
+   "lat": "42.75142",
+   "lon": "-2.75310"
+  },
+  "zerbitzuak": [
+   "Gimnasioa",
+   "IGERILEKUA",
+   "boulder ",
+   "Sauna"
+  ],
+  "kuota": "37,71 €/hilabete",
+  "bazkideak": 2523
+ },
+ {
+  "izena": "Sport Gozo 14",
+  "kokapena": {
+   "udalerria": "Getxo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.34212",
+   "lon": "-2.96235"
+  },
+  "zerbitzuak": [
+   "Spa",
+   "Boulder"
+  ],
+  "kuota": "32,80 €/hilabete",
+  "bazkideak": 1113
+ },
+ {
+  "izena": "Aktiba Alai 40",
+  "kokapena": {
+   "udalerria": "LAUDIO",
+   "probintzia": "Araba",
+   "lat": "42.87784",
+   "lon": "-2.79809"
+  },
+  "zerbitzuak": [
+   "Sauna",
+   "Padel",
+   "Spa",
+   "Boulder"
+  ],
+  "kuota": "41,70 €/hilabete",
+  "bazkideak": 1725
+ },
+ {
+  "izena": "Fitness Gozo 20",
+  "kokapena": {
+   "udalerria": "Getxo ",
+   "probintzia": "Bizkaia",
+   "lat": "43.21465",
+   "lon": "-3.07705"
+  },
+  "zerbitzuak": [
+   "Sauna"
+  ],
+  "kuota": "",
+  "bazkideak": 1280
+ },
+ {
+  "izena": "Sport Hiria 16",
+  "kokapena": {
+   "udalerria": "Gasteiz",
+   "probintzia": "Araba",
+   "lat": "42.76221",
+   "lon": "-2.85405"
+  },
+  "zerbitzuak": [
+   "BOULDER",
+   "Padel",
+   "Spa",
+   "Sauna",
+   "Igerilekua"
+  ],
+  "kuota": "48,78 €/hilabete",
+  "bazkideak": 872
+ },
+ {
+  "izena": "Kirol Etxea Osasun 1",
+  "kokapena": {
+   "udalerria": "Gasteiz",
+   "probintzia": "Araba",
+   "lat": "42.80454",
+   "lon": "-2.54923"
+  },
+  "zerbitzuak": [
+   "padel ",
+   "IGERILEKUA",
+   "Spa",
+   "Sauna"
+  ],
+  "kuota": "41,30 €/hilabete",
+  "bazkideak": "2.126"
+ },
+ {
+  "izena": "Sport Hiria 39",
+  "kokapena": {
+   "udalerria": "Agurain ",
+   "probintzia": "Araba",
+   "lat": "42.89973",
+   "lon": "-2.50270"
+  },
+  "zerbitzuak": [
+   "Spa",
+   "Gimnasioa"
+  ],
+  "kuota": "31,90 €/hilabete",
+  "bazkideak": "1.866"
+ },
+ {
+  "izena": "Zentro Indar 38",
+  "kokapena": {
+   "udalerria": "Eibar",
+   "probintzia": "Gipuzkoa",
+   "lat": "43.32639",
+   "lon": "-2.09159"
+  },
+  "zerbitzuak": [
+   "spa ",
+   "Boulder",
+   "Sauna",
+   "Gimnasioa"
+  ],
+  "kuota": "",
+  "bazkideak": "2.717"
+ }
+]

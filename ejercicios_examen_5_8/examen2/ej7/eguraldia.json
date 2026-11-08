@@ -1,0 +1,506 @@
+[
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-07-26T23:30:00",
+  "tenperatura": "22,9 °C",
+  "euria": "-",
+  "haizea": "28 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-07-16T06:30:00",
+  "tenperatura": "20,8 °C",
+  "euria": "-",
+  "haizea": "18 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-10-14T11:45:00",
+  "tenperatura": "16,3 °C",
+  "euria": "4,3 mm",
+  "haizea": "19 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-04-23T05:00:00",
+  "tenperatura": "13,5 °C",
+  "euria": "7,3 mm",
+  "haizea": "18 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-11-08T21:15:00",
+  "tenperatura": "85,0 °C",
+  "euria": "-",
+  "haizea": "5 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-06-16T08:15:00",
+  "tenperatura": "20,4 °C",
+  "euria": "11,9 mm",
+  "haizea": "49 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-12-12T00:30:00",
+  "tenperatura": "5,5 °C",
+  "euria": "-",
+  "haizea": "7 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-04-15T04:45:00",
+  "tenperatura": "12,1 °C",
+  "euria": "-",
+  "haizea": "12 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-08-04T02:30:00",
+  "tenperatura": "22,4 °C",
+  "euria": "14,6 mm",
+  "haizea": "22 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-10-18T04:00:00",
+  "tenperatura": "17,2 °C",
+  "euria": "-",
+  "haizea": "5 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-12-07T16:45:00",
+  "tenperatura": "3,6 °C",
+  "euria": "8,4 mm",
+  "haizea": "20 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-03-16T03:00:00",
+  "tenperatura": "11,0 °C",
+  "euria": "9,1 mm",
+  "haizea": "59 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-01-16T19:00:00",
+  "tenperatura": "ERR",
+  "euria": "-",
+  "haizea": "40 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-12-26T17:45:00",
+  "tenperatura": "8,6 °C",
+  "euria": "13,1 mm",
+  "haizea": "30 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-07-18T14:45:00",
+  "tenperatura": "ERR",
+  "euria": "-",
+  "haizea": "50 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-07-20T09:00:00",
+  "tenperatura": "18,6 °C",
+  "euria": "-",
+  "haizea": "12 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-09-06T04:00:00",
+  "tenperatura": "19,1 °C",
+  "euria": "10,9 mm",
+  "haizea": "14 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-06-07T16:45:00",
+  "tenperatura": "18,5 °C",
+  "euria": "12,1 mm",
+  "haizea": "27 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-10-20T19:45:00",
+  "tenperatura": "15,9 °C",
+  "euria": "9,9 mm",
+  "haizea": "47 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-06-22T07:15:00",
+  "tenperatura": "19,0 °C",
+  "euria": "-",
+  "haizea": "50 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-04-18T22:00:00",
+  "tenperatura": "12,3 °C",
+  "euria": "5,7 mm",
+  "haizea": "41 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-05-10T16:45:00",
+  "tenperatura": "16,1 °C",
+  "euria": "-",
+  "haizea": "26 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-01-02T16:15:00",
+  "tenperatura": "6,1 °C",
+  "euria": "-",
+  "haizea": "7 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-04-22T17:45:00",
+  "tenperatura": "10,2 °C",
+  "euria": "-",
+  "haizea": "54 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-02-05T17:00:00",
+  "tenperatura": "5,7 °C",
+  "euria": "-",
+  "haizea": "28 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-04-18T00:30:00",
+  "tenperatura": "ERR",
+  "euria": "2,4 mm",
+  "haizea": "46 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-01-25T05:00:00",
+  "tenperatura": "3,1 °C",
+  "euria": "13,1 mm",
+  "haizea": "54 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-05-21T07:15:00",
+  "tenperatura": "14,4 °C",
+  "euria": "7,6 mm",
+  "haizea": "56 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-02-04T16:45:00",
+  "tenperatura": "4,3 °C",
+  "euria": "-",
+  "haizea": "40 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-10-18T13:30:00",
+  "tenperatura": "15,0 °C",
+  "euria": "5,2 mm",
+  "haizea": "44 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-08-24T22:30:00",
+  "tenperatura": "22,8 °C",
+  "euria": "-",
+  "haizea": "46 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-09-24T07:45:00",
+  "tenperatura": "17,9 °C",
+  "euria": "-",
+  "haizea": "30 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-11-24T04:45:00",
+  "tenperatura": "11,7 °C",
+  "euria": "1,7 mm",
+  "haizea": "60 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-06-16T13:00:00",
+  "tenperatura": "20,0 °C",
+  "euria": "-",
+  "haizea": "47 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-11-04T05:30:00",
+  "tenperatura": "7,0 °C",
+  "euria": "3,7 mm",
+  "haizea": "8 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-02-18T13:00:00",
+  "tenperatura": "5,3 °C",
+  "euria": "3,8 mm",
+  "haizea": "57 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-09-03T08:00:00",
+  "tenperatura": "15,7 °C",
+  "euria": "6,5 mm",
+  "haizea": "45 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-08-23T12:30:00",
+  "tenperatura": "22,3 °C",
+  "euria": "6,8 mm",
+  "haizea": "6 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-08-01T15:30:00",
+  "tenperatura": "22,4 °C",
+  "euria": "9,2 mm",
+  "haizea": "56 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-10-13T17:30:00",
+  "tenperatura": "16,7 °C",
+  "euria": "2,7 mm",
+  "haizea": "13 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-05-12T05:30:00",
+  "tenperatura": "17,0 °C",
+  "euria": "4,1 mm",
+  "haizea": "54 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-01-21T12:00:00",
+  "tenperatura": "6,1 °C",
+  "euria": "-",
+  "haizea": "17 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-03-10T17:15:00",
+  "tenperatura": "ERR",
+  "euria": "-",
+  "haizea": "11 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-03-11T19:15:00",
+  "tenperatura": "6,6 °C",
+  "euria": "1,1 mm",
+  "haizea": "49 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-06-03T03:45:00",
+  "tenperatura": "19,9 °C",
+  "euria": "-",
+  "haizea": "15 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-10-20T07:00:00",
+  "tenperatura": "ERR",
+  "euria": "-",
+  "haizea": "21 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-09-20T03:45:00",
+  "tenperatura": "20,8 °C",
+  "euria": "-",
+  "haizea": "8 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-12-17T13:15:00",
+  "tenperatura": "6,9 °C",
+  "euria": "8,8 mm",
+  "haizea": "39 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-06-07T11:30:00",
+  "tenperatura": "17,2 °C",
+  "euria": "5,2 mm",
+  "haizea": "10 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-03-28T04:30:00",
+  "tenperatura": "11,9 °C",
+  "euria": "-",
+  "haizea": "31 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-01-21T01:00:00",
+  "tenperatura": "5,3 °C",
+  "euria": "-",
+  "haizea": "57 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-11-17T06:30:00",
+  "tenperatura": "7,2 °C",
+  "euria": "9,5 mm",
+  "haizea": "33 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-02-19T01:45:00",
+  "tenperatura": "7,3 °C",
+  "euria": "9,5 mm",
+  "haizea": "8 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-12-23T16:00:00",
+  "tenperatura": "6,5 °C",
+  "euria": "14,3 mm",
+  "haizea": "34 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-01-06T03:30:00",
+  "tenperatura": "4,8 °C",
+  "euria": "-",
+  "haizea": "43 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-05-10T07:15:00",
+  "tenperatura": "14,3 °C",
+  "euria": "6,9 mm",
+  "haizea": "49 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-09-03T23:45:00",
+  "tenperatura": "-60,5 °C",
+  "euria": "9,6 mm",
+  "haizea": "34 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-12-14T04:00:00",
+  "tenperatura": "7,8 °C",
+  "euria": "-",
+  "haizea": "52 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-11-07T09:15:00",
+  "tenperatura": "9,3 °C",
+  "euria": "0,6 mm",
+  "haizea": "53 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-05-04T04:30:00",
+  "tenperatura": "12,4 °C",
+  "euria": "-",
+  "haizea": "14 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-03-17T07:30:00",
+  "tenperatura": "7,6 °C",
+  "euria": "12,1 mm",
+  "haizea": "40 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-07-27T10:30:00",
+  "tenperatura": "ERR",
+  "euria": "11,9 mm",
+  "haizea": "49 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-11-01T04:45:00",
+  "tenperatura": "9,9 °C",
+  "euria": "4,1 mm",
+  "haizea": "39 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-03-10T02:15:00",
+  "tenperatura": "10,5 °C",
+  "euria": "7,3 mm",
+  "haizea": "11 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-02-07T19:45:00",
+  "tenperatura": "8,0 °C",
+  "euria": "-",
+  "haizea": "14 km/h"
+ },
+ {
+  "estazioa": "Donostia",
+  "noiz": "2024-08-13T22:15:00",
+  "tenperatura": "23,1 °C",
+  "euria": "2,0 mm",
+  "haizea": "35 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-09-23T10:00:00",
+  "tenperatura": "16,1 °C",
+  "euria": "8,6 mm",
+  "haizea": "22 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-02-16T03:00:00",
+  "tenperatura": "3,7 °C",
+  "euria": "8,1 mm",
+  "haizea": "20 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-08-05T13:30:00",
+  "tenperatura": "18,7 °C",
+  "euria": "4,2 mm",
+  "haizea": "30 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-04-22T07:45:00",
+  "tenperatura": "99,9 °C",
+  "euria": "-",
+  "haizea": "9 km/h"
+ },
+ {
+  "estazioa": "Bilbo",
+  "noiz": "2024-07-03T02:30:00",
+  "tenperatura": "21,4 °C",
+  "euria": "12,0 mm",
+  "haizea": "35 km/h"
+ },
+ {
+  "estazioa": "Gasteiz",
+  "noiz": "2024-05-15T07:00:00",
+  "tenperatura": "12,5 °C",
+  "euria": "-",
+  "haizea": "30 km/h"
+ }
+]

@@ -69,7 +69,7 @@ hilabeteak = {d["_id"]: d["guztira"] for d in db.garbiak.aggregate([
 ])}
 A = [["hilabetea", "salmentak (€)"]]
 for h in range(1, 13):
-    A.append([h, round(hilabeteak.get(h, 0), 2)])
+    A.append([h, round(hilabeteak.get(h , 0), 2)])
 
 # B) Ventas por categoría
 B = [["kategoria", "salmentak (€)"]]
